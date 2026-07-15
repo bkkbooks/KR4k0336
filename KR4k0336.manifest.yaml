@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0336/v1
 canonical_location: https://kanripo.org/bkk/KR4k0336/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 晉陽秋一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0336_001.yaml, hash: 'sha256:b4f0927f6241ee1d293cf524363274de1d3a43f6f2273dc8aeaf7077290cfdd3'}
+  - {seq: 1, filename: KR4k0336_001.yaml, hash: 'sha256:d02f361879bcc065ebcf29f50ddfa2c444c821a745539afc0ea24ec45bab3942'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0336_001.markers.yaml, hash: 'sha256:915e45b879cb0e759e9110a8239092be87bd1720185211833d1dd19409543d3e'}
+  - {seq: 1, role: markers, filename: assets/KR4k0336_001.markers.yaml, hash: 'sha256:a42454175949ae760f0ceae28cc9eb4c98491782d046243e1ed484c1408926e0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 晉陽秋
   type: section
   level: 1
-hash: sha256:926b5dfbd0489d7cdd8dfe87e193bcb98bf3f28444ddfaff0d5d35a5feeccf41
+hash: sha256:ad6434da76cd539fa736f578dfe32651a0b8cf1c334c35cb28ab62385c2a1623
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
